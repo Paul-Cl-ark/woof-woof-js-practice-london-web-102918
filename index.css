@@ -44,6 +44,8 @@
 }
 
 #dog-info img {
+  border-radius: 2em;
+  border: 1px solid blue;
   max-width: 75vw;
   max-height: 25vw;
 }
